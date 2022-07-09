@@ -1,0 +1,13 @@
+.greeting_block {
+    background-blend-mode: overlay;
+    background-image: url(http://127.0.0.1/static/images/coding-background-texture.jpg),linear-gradient(180deg,#474ab6 0%,#9271f6 100%)!important;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
